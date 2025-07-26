@@ -1,0 +1,2 @@
+python Emotion.py
+pause
